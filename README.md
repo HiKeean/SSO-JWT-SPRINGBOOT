@@ -1,10 +1,21 @@
-LOGIN AUTHENTICATION FOR SSO USING JWT
+# Login Authentication for SSO Using JWT
 
-CREATED USING JAVA SPRING BOOT MAVEN 
+![Spring Logo](https://spring.io/images/spring-logo.png) 
 
-JAVA VERSION 21
-JAVA SPRING BOOT VERSION 3.4.1
-MAVEN VERSION 4.0.0
+## Description
+This project is an implementation of a login authentication system for Single Sign-On (SSO) using JSON Web Tokens (JWT). The project is built using Java Spring Boot and Maven.
 
+## Technologies Used
+- **Java Version**: 21
+- **Spring Boot Version**: 3.4.1
+- **Maven Version**: 4.0.0
 
-CREATED BY : HIZKIA ALBERTIAN L
+## Features
+- User authentication using JWT
+- Support for Single Sign-On (SSO)
+- Enhanced security with refreshable tokens
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/HiKeean/SSO-JWT-SPRINGBOOT.git
